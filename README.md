@@ -36,5 +36,15 @@ Our mission is to foster innovation, support startups, and promote entrepreneuri
 ##🌐 Live Demo
 
 👉 Click here to view the website
- 
+
+ ## 📂 Project Structure
+```bash
+ecell-iitb-website/
+│── public/          # Static assets (images, icons, etc.)
+│── src/             # Source code
+│   ├── components/  # Reusable UI components
+│   ├── pages/       # Website pages
+│   ├── styles/      # Global styles
+│── package.json     # Project dependencies
+│── README.md        # Project documentation
 
