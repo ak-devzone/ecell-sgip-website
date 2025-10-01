@@ -29,7 +29,7 @@ Our mission is to foster innovation, support startups, and promote entrepreneuri
 ##👨‍💻 **Contributors**
 1.Avinash Kamble
 2.Sneha Jagadale
-3.Sangram Khot
+
 
 ---
 
